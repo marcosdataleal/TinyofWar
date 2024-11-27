@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/growl-251355.mp3-f696dc6c9c80ff55c8339156bc52e9ba.mp3str"
+
+[deps]
+
+source_file="res://telas/som/growl-251355.mp3"
+dest_files=[ "res://.import/growl-251355.mp3-f696dc6c9c80ff55c8339156bc52e9ba.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

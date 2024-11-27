@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/gali-candra-fase-151877.mp3-b470b0bf27fe02de05208a4166017629.mp3str"
+
+[deps]
+
+source_file="res://telas/som/gali-candra-fase-151877.mp3"
+dest_files=[ "res://.import/gali-candra-fase-151877.mp3-b470b0bf27fe02de05208a4166017629.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

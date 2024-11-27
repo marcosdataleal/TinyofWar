@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/sword-sound-2-36274.mp3-e385be3d83a0c2084e92be42e757eedc.mp3str"
+
+[deps]
+
+source_file="res://telas/som/sword-sound-2-36274.mp3"
+dest_files=[ "res://.import/sword-sound-2-36274.mp3-e385be3d83a0c2084e92be42e757eedc.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/grunt2-85989.mp3-ea0199037e6a3afe7bb2e9cb0a53fc65.mp3str"
+
+[deps]
+
+source_file="res://telas/som/grunt2-85989.mp3"
+dest_files=[ "res://.import/grunt2-85989.mp3-ea0199037e6a3afe7bb2e9cb0a53fc65.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
